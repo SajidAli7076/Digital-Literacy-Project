@@ -44,9 +44,8 @@ In this task, I studied cybercrimes such as phishing and online fraud. I created
 
 ## 🔗 Important Links
 
-- 🔹 **GitHub Repository:** *(paste your GitHub repo link here)*  
-- 🔹 **Project Report (PDF):** *(paste your report link here)*  
-- 🔹 **Google Form (Digital Literacy Quiz):** *(paste your Google Form link here)*  
+- 🔹 **Project Report (PDF):** *(https://github.com/SajidAli7076/Digital-Literacy/blob/main/Project%20report.pdf)*  
+- 🔹 **Google Form (Digital Literacy Quiz):** *(https://forms.gle/N2YSLVncuv8wY3SN8)*  
 
 ---
 
