@@ -69,13 +69,4 @@ This project helped me improve my digital skills, including communication, onlin
 
 ---
 
-## 📎 Submission
-This repository is submitted as part of the CSE0001 Digital Literacy Project through the VITyarthi platform.
 
----
-
-## ⚠️ Final Checklist
-- Add your GitHub link  
-- Add your Google Form link  
-- Upload your Project Report PDF  
-- Ensure all files are properly added  
